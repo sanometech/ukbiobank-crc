@@ -388,3 +388,10 @@ def filter_controls_to_nocancer(df):
         f"{len(df_filtered)} rows left after restricting control group to only label_class=0"
     )
     return df_filtered
+
+
+def get_othercancer_counts(df_label, icd_codes):
+    return df_label[
+        (df_label.label_first_occurred_date.notna())
+        & (df_label.icd_codes.apply(lambda x: any(i in icd_codes for i in eval(x))))
+    ].eid.unique()
