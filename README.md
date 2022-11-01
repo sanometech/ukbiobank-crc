@@ -11,7 +11,7 @@ This repository is the official implementation of the [paper](link), which has b
 All source code used to generate the results and figures in the paper can be found in the respective folders.
 
 - ```preprocessing``` folder contains codes used to preprocess and featurise the raw dataset
-- ```eda``` folder contains codes used to calculate descriptive statistics using baseline data
+- ```stats``` folder contains codes used for statistics on the baseline data
 - ```cox``` folder contains the codes for cox regression model
 - ```gpboost``` folder contains the codes for gpboost model with feature selection using RFE
 
