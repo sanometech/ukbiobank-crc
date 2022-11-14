@@ -2,7 +2,7 @@
 
 by Gizem Tanriver, Ece Kocagoncu
 
-This repository is the official implementation of the [paper](link), which has been submitted for preprint in medRxiv and publication in British Journal of Cancer.
+This repository is the official implementation of the [paper](https://www.medrxiv.org/content/10.1101/2022.11.10.22282166v1), which has been submitted for preprint in medRxiv and publication in British Journal of Cancer.
 
 ## Abstract
 
@@ -37,5 +37,14 @@ Distributed under GNU General Public License v3.0. See LICENSE for more informat
 If this work is helpful, please cite as:
 
 ```
-
+@article{Tanriver2022.11.10.22282166,
+	author = {Tanriver, Gizem and Kocagoncu, Ece},
+	title = {Additive pre-diagnostic and diagnostic value of routine bloodbased biomarkers in the detection of colorectal cancer in the UK Biobank cohort},
+	elocation-id = {2022.11.10.22282166},
+	year = {2022},
+	doi = {10.1101/2022.11.10.22282166},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	URL = {https://www.medrxiv.org/content/early/2022/11/11/2022.11.10.22282166},
+	journal = {medRxiv}
+}
 ```
