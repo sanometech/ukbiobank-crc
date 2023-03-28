@@ -2,7 +2,7 @@
 
 by Gizem Tanriver, Ece Kocagoncu
 
-This repository is the official implementation of the [paper](https://www.medrxiv.org/content/10.1101/2022.11.10.22282166v1), which has been submitted for preprint in medRxiv and publication in British Journal of Cancer.
+This repository is the official implementation of the [paper](https://www.nature.com/articles/s41598-023-28631-y), published in Scientific Reports in January 2023.
 
 ## Abstract
 
